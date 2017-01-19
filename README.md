@@ -3,14 +3,14 @@
 > UI Component for Vue.js
 
 ##TODO
-- [] Button
-- [] Input
-- [] Form
-- [] Select
-- [] Radio
-- [] Switch
-- [] Checkbox
-- [] InputNumber
+- [ ] Button
+- [ ] Input
+- [ ] Form
+- [ ] Select
+- [ ] Radio
+- [ ] Switch
+- [ ] Checkbox
+- [ ] InputNumber
 
 ## Build Setup
 
